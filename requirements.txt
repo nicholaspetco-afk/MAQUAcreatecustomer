@@ -1,0 +1,2 @@
+-r maqua-members/requirements.txt
+gunicorn==21.2.0
